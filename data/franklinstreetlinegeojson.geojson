@@ -3,6 +3,6 @@
 "name": "franklinstreetlinegeojson",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1, "Name": "Franklin Street" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.054286422853934, 35.913642897923985 ], [ -79.055603377690673, 35.913257103921005 ], [ -79.050961345393844, 35.915019637656791 ] ] ] } }
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.053684013615239, 35.91401543158036 ], [ -79.052331774394716, 35.914504047093622 ], [ -79.050901521373007, 35.915045311617405 ] ] ] } }
 ]
 }
