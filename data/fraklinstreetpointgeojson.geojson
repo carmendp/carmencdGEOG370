@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "fraklinstreetpointgeojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -79.054945731713815, 35.913831853168517 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -79.054323266782077, 35.91400208018046 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ -79.053873585029905, 35.914165701443522 ] } }
+]
+}
