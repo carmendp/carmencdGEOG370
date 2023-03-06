@@ -1,0 +1,26 @@
+GEO_ID,NAME,,S1401_C01_010E,S1401_C01_010EA,S1401_C01_010M,S1401_C01_010MA,S1401_C01_011E,S1401_C01_011M,S1401_C01_011MA,S1401_C01_011EA,S1401_C01_012E,
+Geography,Geographic Area Name,,Estimate!!Total!!Population enrolled in college or graduate school,Annotation of Estimate!!Total!!Population enrolled in college or graduate school,Margin of Error!!Total!!Population enrolled in college or graduate school,Annotation of Margin of Error!!Total!!Population enrolled in college or graduate school,Estimate!!Total!!Population enrolled in college or graduate school!!Males enrolled in college or graduate school,Margin of Error!!Total!!Population enrolled in college or graduate school!!Males enrolled in college or graduate school,Annotation of Margin of Error!!Total!!Population enrolled in college or graduate school!!Males enrolled in college or graduate school,Annotation of Estimate!!Total!!Population enrolled in college or graduate school!!Males enrolled in college or graduate school,Estimate!!Total!!Population enrolled in college or graduate school!!Females enrolled in college or graduate school,
+0500000US24001,"Allegany County, Maryland",,5717,null,504,null,2503,335,null,null,3214,0.562182963
+0500000US24003,"Anne Arundel County, Maryland",,40684,null,2393,null,18073,1406,null,null,22611,0.555771311
+0500000US24005,"Baltimore County, Maryland",,68409,null,2481,null,28565,1307,null,null,39844,0.582437983
+0500000US24009,"Calvert County, Maryland",,5202,null,499,null,2013,324,null,null,3189,0.613033449
+0500000US24011,"Caroline County, Maryland",,1528,null,244,null,551,139,null,null,977,0.639397906
+0500000US24013,"Carroll County, Maryland",,10908,null,687,null,4584,454,null,null,6324,0.579757976
+0500000US24015,"Cecil County, Maryland",,5614,null,560,null,2019,390,null,null,3595,0.640363377
+0500000US24017,"Charles County, Maryland",,11682,null,866,null,4891,530,null,null,6791,0.581321691
+0500000US24019,"Dorchester County, Maryland",,1401,null,260,null,473,144,null,null,928,0.662384011
+0500000US24021,"Frederick County, Maryland",,18433,null,1010,null,8226,613,null,null,10207,0.553735149
+0500000US24023,"Garrett County, Maryland",,1131,null,198,null,343,112,null,null,788,0.696728559
+0500000US24025,"Harford County, Maryland",,15153,null,922,null,6911,572,null,null,8242,0.543918696
+0500000US24027,"Howard County, Maryland",,24492,null,1119,null,11040,737,null,null,13452,0.549240568
+0500000US24029,"Kent County, Maryland",,1874,null,262,null,664,165,null,null,1210,0.645677695
+0500000US24031,"Montgomery County, Maryland",,69793,null,1851,null,32088,1294,null,null,37705,0.540240425
+0500000US24033,"Prince George's County, Maryland",,82507,null,1853,null,35849,1270,null,null,46658,0.565503533
+0500000US24035,"Queen Anne's County, Maryland",,2557,null,379,null,1138,261,null,null,1419,0.554947204
+0500000US24037,"St. Mary's County, Maryland",,7522,null,824,null,3202,520,null,null,4320,0.574315342
+0500000US24039,"Somerset County, Maryland",,3184,null,412,null,1434,296,null,null,1750,0.549623116
+0500000US24041,"Talbot County, Maryland",,1722,null,294,null,559,148,null,null,1163,0.675377468
+0500000US24043,"Washington County, Maryland",,7030,null,670,null,2986,499,null,null,4044,0.575248933
+0500000US24045,"Wicomico County, Maryland",,11039,null,713,null,4119,447,null,null,6920,0.626868376
+0500000US24047,"Worcester County, Maryland",,2203,null,305,null,967,211,null,null,1236,0.561053109
+0500000US24510,"Baltimore city, Maryland",,51798,null,1646,null,21660,1031,null,null,30138,0.581837137
